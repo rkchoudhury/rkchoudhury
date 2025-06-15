@@ -22,10 +22,10 @@
 ### 🚀 Projects You Might Like
 
 - 🎬 [**movie-hub**](https://github.com/rkchoudhury/movie-hub): Android app to search and view movies *(Kotlin)*
-- 📺 [**netflix-gpt**](https://github.com/rkchoudhury/netflix-gpt): Web App that mirrors Netflix. *(TypeScript)* [**Live View**](https://netflixgpt-c1dd2.web.app)
+- 📺 [**netflix-gpt**](https://github.com/rkchoudhury/netflix-gpt): Web App that mirrors Netflix *(React)* - [**Live View**](https://netflixgpt-c1dd2.web.app)
 - 🍋 [**little-lemon-app**](https://github.com/rkchoudhury/little-lemon-app): UI-focused Android project using Jetpack Compose
-- 📱 [**device-management**](https://github.com/rkchoudhury/device-management): Clean architecture in mobile *(TypeScript)*
-- 📦 [**my-android-projects**](https://github.com/rkchoudhury/my-android-projects): Learning archive for Android and Kotlin
+- 📱 [**device-management**](https://github.com/rkchoudhury/device-management): Clean architecture in mobile *(React-Native)*
+- 📦 [**my-android-projects**](https://github.com/rkchoudhury/my-android-projects): Learning projects on Android and Kotlin
 
 ---
 
