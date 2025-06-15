@@ -29,25 +29,24 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rkchoudhury&show_icons=true&theme=react" alt="Rakesh's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkchoudhury&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rkchoudhury&show_icons=true&theme=react" alt="Rakesh's GitHub stats" height="180" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkchoudhury&layout=compact&theme=react" height="180" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakchoudhury/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakchoudhury/) &nbsp;&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rkchoudhury)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rkchoudhury&label=Profile%20views&color=0e75b6&style=flat" alt="rkchoudhury" />
+  “Learning never exhausts the mind.” – Leonardo da Vinci
 </p>
 
 <!--
