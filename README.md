@@ -22,7 +22,7 @@
 ### 🚀 Projects You Might Like
 
 - 🎬 [**movie-hub**](https://github.com/rkchoudhury/movie-hub): Android app to search and view movies *(Kotlin)*
-- 📺 [**netflix-gpt**](https://github.com/rkchoudhury/netflix-gpt): GPT-based movie recommendation engine *(TypeScript)*
+- 📺 [**netflix-gpt**](https://github.com/rkchoudhury/netflix-gpt): Web App that mirrors Netflix. *(TypeScript)* [**Live View**](https://netflixgpt-c1dd2.web.app)
 - 🍋 [**little-lemon-app**](https://github.com/rkchoudhury/little-lemon-app): UI-focused Android project using Jetpack Compose
 - 📱 [**device-management**](https://github.com/rkchoudhury/device-management): Clean architecture in mobile *(TypeScript)*
 - 📦 [**my-android-projects**](https://github.com/rkchoudhury/my-android-projects): Learning archive for Android and Kotlin
@@ -40,7 +40,7 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakchoudhury/) &nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakchoudhury/) &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rkchoudhury)
 
 ---
