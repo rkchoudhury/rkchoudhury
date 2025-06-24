@@ -43,6 +43,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakchoudhury/) &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rkchoudhury) &nbsp;&nbsp;
 [![HackerRank](https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/rakeshchoudhury3)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail)](mailto:rkchoudhury96@gmail.com)
+
 
 ---
 
