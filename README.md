@@ -10,6 +10,7 @@
 
 ### 🛠️ Tech Stack
 
+#### 📱 Mobile & Frontend
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -17,10 +18,19 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
+#### 🧠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### 🧪 Testing & Tools
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
 ---
 
 ### 🚀 Projects You Might Like
 
+- 🤝 [**devTinder**](https://github.com/rkchoudhury/devTinder): A full-stack app where developers can connect and interact together.
 - 🎬 [**movie-hub**](https://github.com/rkchoudhury/movie-hub): Android app to search and view movies *(Kotlin)* - [**App Preview**](https://github.com/user-attachments/assets/3efc4ac2-d2cf-4925-a406-cc97ceffc6a3)
 - 📺 [**netflix-gpt**](https://github.com/rkchoudhury/netflix-gpt): Web App that mirrors Netflix *(React)* - [**App Preview**](https://github.com/user-attachments/assets/71f76606-ab1d-4c3c-bb16-b41dc5e46942)
 - 🍋 [**little-lemon-app**](https://github.com/rkchoudhury/little-lemon-app): UI-focused Android project using Jetpack Compose
