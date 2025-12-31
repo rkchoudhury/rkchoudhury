@@ -10,10 +10,13 @@
 
 ### 🛠️ Tech Stack
 
-#### 📱 Mobile & Frontend
+#### 📱 Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+#### 🌐 Web Frontend
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -30,7 +33,7 @@
 
 ### 🚀 Projects You Might Like
 
-- 🤝 [**devTinder**](https://github.com/rkchoudhury/devTinder): A full-stack app where developers can connect and interact together. [**Live View**](http://51.21.171.84/) | [**Web App Preview**](https://github.com/user-attachments/assets/1b864e10-d22f-4472-9d39-be75b1887a9f) | [**Mobile App Preview**](https://github.com/user-attachments/assets/25989db0-63ab-4842-8a10-346c29c07dc5)
+- 🧑‍💻 [**devTinder**](https://github.com/rkchoudhury/devTinder): A full-stack app where developers can connect and interact together. [**Live View**](http://51.21.171.84/) | [**Web App**](https://github.com/user-attachments/assets/1b864e10-d22f-4472-9d39-be75b1887a9f) | [**Mobile App**](https://github.com/user-attachments/assets/25989db0-63ab-4842-8a10-346c29c07dc5)
 - 🎬 [**movie-hub**](https://github.com/rkchoudhury/movie-hub): Android app to search and view movies *(Kotlin)* - [**App Preview**](https://github.com/user-attachments/assets/3efc4ac2-d2cf-4925-a406-cc97ceffc6a3)
 - 📺 [**netflix-gpt**](https://github.com/rkchoudhury/netflix-gpt): Web App that mirrors Netflix *(React)* - [**App Preview**](https://github.com/user-attachments/assets/71f76606-ab1d-4c3c-bb16-b41dc5e46942)
 - 🍋 [**little-lemon-app**](https://github.com/rkchoudhury/little-lemon-app): UI-focused Android project using Jetpack Compose
