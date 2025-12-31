@@ -44,9 +44,9 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rkchoudhury&show_icons=true&theme=react" alt="Rakesh's GitHub stats" height="180" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkchoudhury&layout=compact&theme=react" height="180" />
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rkchoudhury&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rkchoudhury&theme=default" />
 </p>
 
 ---
