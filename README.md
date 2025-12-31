@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hi 👋, I'm Rakesh Choudhury</h1>
-<h3 align="center">Mobile Application Developer | React Native | Android | TypeScript</h3>
+<h3 align="center">Mobile & Full-Stack Developer | React Native | Android | TypeScript | Node.js</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=React+Native+Developer;Android+Developer+(Kotlin);TypeScript+%7C+JavaScript+%7C+Redux+%7C+React;Building+cross-platform+mobile+apps" alt="Typing SVG" />
