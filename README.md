@@ -30,7 +30,7 @@
 
 ### 🚀 Projects You Might Like
 
-- 🤝 [**devTinder**](https://github.com/rkchoudhury/devTinder): A full-stack app where developers can connect and interact together.
+- 🤝 [**devTinder**](https://github.com/rkchoudhury/devTinder): A full-stack app where developers can connect and interact together. [**Live View**](http://51.21.171.84/) | [**Web App Preview**](https://github.com/user-attachments/assets/1b864e10-d22f-4472-9d39-be75b1887a9f) | [**Mobile App Preview**](https://github.com/user-attachments/assets/25989db0-63ab-4842-8a10-346c29c07dc5)
 - 🎬 [**movie-hub**](https://github.com/rkchoudhury/movie-hub): Android app to search and view movies *(Kotlin)* - [**App Preview**](https://github.com/user-attachments/assets/3efc4ac2-d2cf-4925-a406-cc97ceffc6a3)
 - 📺 [**netflix-gpt**](https://github.com/rkchoudhury/netflix-gpt): Web App that mirrors Netflix *(React)* - [**App Preview**](https://github.com/user-attachments/assets/71f76606-ab1d-4c3c-bb16-b41dc5e46942)
 - 🍋 [**little-lemon-app**](https://github.com/rkchoudhury/little-lemon-app): UI-focused Android project using Jetpack Compose
